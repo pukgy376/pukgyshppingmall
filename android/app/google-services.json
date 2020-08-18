@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040702309256",
+    "firebase_url": "https://pukgyshppingmall.firebaseio.com",
+    "project_id": "pukgyshppingmall",
+    "storage_bucket": "pukgyshppingmall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040702309256:android:967a940ab15f4525fc703d",
+        "android_client_info": {
+          "package_name": "com.androidthai.pukgyshppingmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040702309256-cbit6t8r30f4g4n7gb5tu6lp0uvo2ft4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-cF9jYYm8Y6OHEw_mq1fNPzX3ph7jdBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040702309256-cbit6t8r30f4g4n7gb5tu6lp0uvo2ft4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
